@@ -28,8 +28,9 @@ Usage:
     python3 hashcracker.py
 
 Requirements:
-Kali Linux
-Python 3.10+
+
+    Kali Linux
+    Python 3.10+
 
 Usage:
 
