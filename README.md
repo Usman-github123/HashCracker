@@ -20,6 +20,13 @@ Features:
     Error Handling:
         Robust error handling for missing tools (hashcat, hcxpcapngtool), invalid paths, and command execution failures.
 
+Usage:
+
+    git clone https://github.com/Usman-github123/HashCracker
+    cd HashCracker
+    chmod +x hashcracker.py
+    python3 hashcracker.py
+
 Requirements:
 Kali Linux
 Python 3.10+
