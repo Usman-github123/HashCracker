@@ -22,7 +22,7 @@ Features:
 
 Usage:
 
-    git clone https://github.com/Usman-github123/HashCracker
+    git clone https://github.com/Usman-github123/HashCracker.git
     cd HashCracker
     chmod +x hashcracker.py
     python3 hashcracker.py
